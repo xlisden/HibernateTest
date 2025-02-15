@@ -1,12 +1,12 @@
 ## ¿Cómo crear una conexión en NetBeans 20?
 
-1.
-    Window > Services   
-    ![alt text](recursos/services_readme.jpg)
+## w
+Window > Services   
+![alt text](recursos/services_readme.jpg)
 
-2.
-    Services > Databases > New Connection...
-    ![alt text](recursos/databases_readme.png)
+## w
+Services > Databases > New Connection...
+![alt text](recursos/databases_readme.png)
 
 3.
     Driver: Microsoft SQL Server (está en la carpeta recursos de la raíz del proyecto)
