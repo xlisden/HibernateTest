@@ -1,0 +1,10 @@
+com\day\hibernatetest\config\HibernateConfig.class
+com\day\hibernatetest\repository\IChildrenRepository.class
+com\day\hibernatetest\entity\Children.class
+com\day\hibernatetest\repository\impl\exceptions\NonexistentEntityException.class
+com\day\hibernatetest\HibernateTest.class
+com\day\hibernatetest\repository\impl\EmployeeRepository.class
+com\day\hibernatetest\repository\impl\exceptions\PreexistingEntityException.class
+com\day\hibernatetest\repository\impl\exceptions\IllegalOrphanException.class
+com\day\hibernatetest\entity\Employee.class
+com\day\hibernatetest\repository\IEmployeeRepository.class
